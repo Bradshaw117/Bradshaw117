@@ -25,4 +25,4 @@ Currently working on:
 
 ⚡ *“Automate what you can, learn what you can’t yet.”*
 
-📫 Reach me at: [Your Email Here] • [LinkedIn if you want to add]
+📫 Reach me at: [bradshawiikevin@gmail.com] 
