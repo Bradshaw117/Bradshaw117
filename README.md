@@ -19,7 +19,6 @@ Currently working on:
 
 ### 📂 Featured Projects (WIP)
 - `Personal-PC-Toolkit` → PowerShell utilities & scripts
-- `airi-ks` → My AIRI fork (AI assistant with custom persona)
 - `ad-scripts` (planned) → AD automation scripts (bulk user creation, audit reports)
 
 ---
