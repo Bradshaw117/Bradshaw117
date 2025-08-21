@@ -4,7 +4,6 @@
 
 Currently working on:
 - **Personal-PC-Toolkit** → PowerShell scripts for Windows automation (backup, cleanup, inventory)
-- **AIRI Fork** → Custom AI assistant (voice + persona) with Windows quickstart support
 - Homelab build (coming soon) → AD, networking labs, virtualization practice
 
 ### 🔧 Tech & Tools
