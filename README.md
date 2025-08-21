@@ -1,15 +1,30 @@
-## Hi there 👋
+# 👋 Hey, I’m Kevin (KC)
 
-<!--
-**Bradshaw117/Bradshaw117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **IT Student • Aspiring SysAdmin • AI tinkerer**
 
+Currently working on:
+- **Personal-PC-Toolkit** → PowerShell scripts for Windows automation (backup, cleanup, inventory)
+- **AIRI Fork** → Custom AI assistant (voice + persona) with Windows quickstart support
+- Homelab build (coming soon) → AD, networking labs, virtualization practice
 
-- 🔭 I’m currently working on learning the basics.
-- 🌱 I’m currently learning on Github and at school online at WGU.
-- 👯 I’m looking to collaborate on tutorials.
-- 🤔 I’m looking for help with learning the basics.
-- 💬 Ask me about anything.
-- 📫 How to reach me: kbrads28@wgu.edu
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a former fine dining chef and professional artist. 
--->
+### 🔧 Tech & Tools
+- **Scripting:** PowerShell, Bash (learning), Python (learning)
+- **Platforms:** Windows, Linux (Ubuntu/Debian basics)
+- **AI / Dev:** Git, GitHub, Node.js, Open-source AI (Mistral, Ollama, AIRI)
+
+### 🎯 Goals
+- Land an **entry-level IT role** (help desk / sysadmin track)
+- Build a **homelab** and document it here
+- Contribute to open-source AI & automation tools
+- Earn certs: CompTIA (Net+/Sec+), Azure, AWS
+
+### 📂 Featured Projects (WIP)
+- `Personal-PC-Toolkit` → PowerShell utilities & scripts
+- `airi-ks` → My AIRI fork (AI assistant with custom persona)
+- `ad-scripts` (planned) → AD automation scripts (bulk user creation, audit reports)
+
+---
+
+⚡ *“Automate what you can, learn what you can’t yet.”*
+
+📫 Reach me at: [Your Email Here] • [LinkedIn if you want to add]
